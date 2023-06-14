@@ -1,0 +1,154 @@
+[
+   {
+      "id": 0,
+      "x": 886,
+      "y": 25,
+      "r": 80,
+      "name": "admin",
+      "surname": "piekarczyk",
+      "bornYear": "0",
+      "img": "no-image.jpg",
+      "relations": {
+         "parents": [],
+         "childrens": [
+            1
+         ],
+         "siblings": [
+            0
+         ],
+         "partner": []
+      },
+      "colors": [
+         [
+            255,
+            255,
+            255
+         ],
+         [
+            255,
+            255,
+            255
+         ]
+      ],
+      "costume": 0,
+      "bool": false,
+      "current": false,
+      "isclickedR": false,
+      "isclickedL": false,
+      "time": 0
+   },
+   {
+      "id": 1,
+      "x": 792,
+      "y": 553,
+      "r": 80,
+      "name": "cipka",
+      "surname": "piekarczyk",
+      "bornYear": "0",
+      "img": "no-image.jpg",
+      "relations": {
+         "parents": [],
+         "childrens": [
+            1
+         ],
+         "siblings": [
+            0
+         ],
+         "partner": []
+      },
+      "colors": [
+         [
+            255,
+            255,
+            255
+         ],
+         [
+            255,
+            255,
+            255
+         ]
+      ],
+      "costume": 0,
+      "bool": false,
+      "current": false,
+      "isclickedR": false,
+      "isclickedL": false,
+      "time": 0
+   },
+   {
+      "id": 2,
+      "x": 1274,
+      "y": 400,
+      "r": 80,
+      "name": "ola",
+      "surname": "piekarczyk",
+      "bornYear": "0",
+      "img": "no-image.jpg",
+      "relations": {
+         "parents": [],
+         "childrens": [
+            1
+         ],
+         "siblings": [
+            0
+         ],
+         "partner": []
+      },
+      "colors": [
+         [
+            255,
+            255,
+            255
+         ],
+         [
+            255,
+            255,
+            255
+         ]
+      ],
+      "costume": 0,
+      "bool": false,
+      "current": false,
+      "isclickedR": false,
+      "isclickedL": false,
+      "time": 0
+   },
+   {
+      "id": 3,
+      "x": 456,
+      "y": 304,
+      "r": 80,
+      "name": "",
+      "surname": "",
+      "bornYear": 0,
+      "img": "no-image.jpg",
+      "relations": {
+         "parents": [],
+         "childrens": [
+            1
+         ],
+         "siblings": [
+            0
+         ],
+         "partner": []
+      },
+      "colors": [
+         [
+            255,
+            255,
+            255
+         ],
+         [
+            255,
+            255,
+            255
+         ]
+      ],
+      "costume": 0,
+      "bool": false,
+      "current": false,
+      "isclickedR": false,
+      "isclickedL": false,
+      "time": 0
+   }
+]

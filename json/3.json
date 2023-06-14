@@ -1,0 +1,110 @@
+[
+   {
+      "id": 0,
+      "x": 646,
+      "y": 202,
+      "r": 80,
+      "name": "Mateusz",
+      "surname": "Orze\u0142",
+      "bornYear": "2001",
+      "img": "C:/Users/Admin/OneDrive/Pulpit/io/pudzian.jpg",
+      "relations": {
+         "parents": [],
+         "childrens": [],
+         "siblings": [
+            0
+         ],
+         "partner": []
+      },
+      "colors": [
+         [
+            255,
+            255,
+            255
+         ],
+         [
+            255,
+            255,
+            255
+         ]
+      ],
+      "costume": 0,
+      "bool": false,
+      "current": false,
+      "isclickedR": false,
+      "isclickedL": false,
+      "time": 0
+   },
+   {
+      "id": 1,
+      "x": 956,
+      "y": 487,
+      "r": 80,
+      "name": "Jakub",
+      "surname": "Skupie\u0144",
+      "bornYear": "2001",
+      "img": "C:/Users/Admin/OneDrive/Pulpit/io/ibisz.jpg",
+      "relations": {
+         "parents": [],
+         "childrens": [],
+         "siblings": [
+            0
+         ],
+         "partner": []
+      },
+      "colors": [
+         [
+            255,
+            255,
+            255
+         ],
+         [
+            255,
+            255,
+            255
+         ]
+      ],
+      "costume": 0,
+      "bool": false,
+      "current": false,
+      "isclickedR": false,
+      "isclickedL": false,
+      "time": 0
+   },
+   {
+      "id": 2,
+      "x": 405,
+      "y": 493,
+      "r": 80,
+      "name": "Daniel",
+      "surname": "Piekarczyk",
+      "bornYear": "2000",
+      "img": "C:/Users/Admin/OneDrive/Pulpit/io/adam-malysz.png",
+      "relations": {
+         "parents": [],
+         "childrens": [],
+         "siblings": [
+            0
+         ],
+         "partner": []
+      },
+      "colors": [
+         [
+            255,
+            255,
+            255
+         ],
+         [
+            255,
+            255,
+            255
+         ]
+      ],
+      "costume": 0,
+      "bool": false,
+      "current": false,
+      "isclickedR": false,
+      "isclickedL": false,
+      "time": 0
+   }
+]

@@ -1,0 +1,76 @@
+[
+   {
+      "id": 0,
+      "x": 790,
+      "y": 322,
+      "r": 80,
+      "name": "Jakub",
+      "surname": "Skupien",
+      "bornYear": "2001",
+      "img": "C:/Users/t33lx/OneDrive/Desktop/io/pudzian.jpg",
+      "relations": {
+         "parents": [],
+         "childrens": [],
+         "siblings": [],
+         "partner": [
+            1,
+            0
+         ]
+      },
+      "colors": [
+         [
+            255,
+            255,
+            255
+         ],
+         [
+            255,
+            255,
+            255
+         ]
+      ],
+      "costume": 0,
+      "bool": false,
+      "current": false,
+      "isclickedR": false,
+      "isclickedL": false,
+      "time": 0
+   },
+   {
+      "id": 1,
+      "x": 563,
+      "y": 309,
+      "r": 80,
+      "name": "Weronika",
+      "surname": "Skupien",
+      "bornYear": "2004",
+      "img": "C:/Users/t33lx/Downloads/foto_no_exif.jpg",
+      "relations": {
+         "parents": [],
+         "childrens": [],
+         "siblings": [],
+         "partner": [
+            1,
+            0
+         ]
+      },
+      "colors": [
+         [
+            255,
+            255,
+            255
+         ],
+         [
+            255,
+            255,
+            255
+         ]
+      ],
+      "costume": 0,
+      "bool": false,
+      "current": false,
+      "isclickedR": false,
+      "isclickedL": false,
+      "time": 0
+   }
+]

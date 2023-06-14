@@ -1,0 +1,36 @@
+[
+   {
+      "id": 0,
+      "x": 688.5,
+      "y": 484,
+      "r": 80,
+      "name": "dsf",
+      "surname": "asd12",
+      "bornYear": "1233",
+      "img": "no-image.jpg",
+      "relations": {
+         "parents": [],
+         "childrens": [],
+         "siblings": [],
+         "partner": []
+      },
+      "colors": [
+         [
+            255,
+            255,
+            255
+         ],
+         [
+            255,
+            255,
+            255
+         ]
+      ],
+      "costume": 0,
+      "bool": false,
+      "current": false,
+      "isclickedR": false,
+      "isclickedL": false,
+      "time": 0
+   }
+]

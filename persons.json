@@ -1,0 +1,113 @@
+[
+   {
+      "id": 0,
+      "x": 570,
+      "y": 297,
+      "r": 80,
+      "name": "mama",
+      "surname": "",
+      "bornYear": "",
+      "img": "no-image.jpg",
+      "relations": {
+         "parents": [],
+         "childrens": [],
+         "siblings": [],
+         "partner": [
+            1,
+            0
+         ]
+      },
+      "colors": [
+         [
+            255,
+            255,
+            255
+         ],
+         [
+            255,
+            255,
+            255
+         ]
+      ],
+      "costume": 0,
+      "bool": false,
+      "current": false,
+      "isclickedR": false,
+      "isclickedL": false,
+      "time": 0
+   },
+   {
+      "id": 1,
+      "x": 824,
+      "y": 342,
+      "r": 80,
+      "name": "tata",
+      "surname": "",
+      "bornYear": "",
+      "img": "no-image.jpg",
+      "relations": {
+         "parents": [],
+         "childrens": [],
+         "siblings": [],
+         "partner": [
+            1,
+            0
+         ]
+      },
+      "colors": [
+         [
+            255,
+            255,
+            255
+         ],
+         [
+            255,
+            255,
+            255
+         ]
+      ],
+      "costume": 0,
+      "bool": false,
+      "current": false,
+      "isclickedR": false,
+      "isclickedL": false,
+      "time": 0
+   },
+   {
+      "id": 2,
+      "x": 666,
+      "y": 616,
+      "r": 80,
+      "name": "child",
+      "surname": "",
+      "bornYear": "",
+      "img": "no-image.jpg",
+      "relations": {
+         "parents": [],
+         "childrens": [],
+         "siblings": [],
+         "partner": [
+            1,
+            0
+         ]
+      },
+      "colors": [
+         [
+            255,
+            255,
+            255
+         ],
+         [
+            255,
+            255,
+            255
+         ]
+      ],
+      "costume": 0,
+      "bool": false,
+      "current": false,
+      "isclickedR": false,
+      "isclickedL": false,
+      "time": 0
+   }
+]
